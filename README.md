@@ -4,7 +4,7 @@
 
 # Vanilla JS Projects
 - [DailyJournal APP](./DailyJournal-App)
-  - [view](./https://daily-journal-app.netlify.app/)
+  - <a href ="https://daily-journal-app.netlify.app/"> visit site</a>
   
 - [City Weather](./CityWeather)
 - [Dad_jokes](./Dad-Jokes)
