@@ -1,6 +1,7 @@
 # JavaScript
 - [ES6 EcmaScript](./ES6)
 - [CheatSheet](./javscript%20cheatsheet.pdf)
+- [Thapa Technical (YT Channel) A-Z JavaScript Tutorial](./ThapaTechnicalJSTutorial.js)
 
 # Vanilla JS Projects
 - [DailyJournal APP](./DailyJournal-App)
